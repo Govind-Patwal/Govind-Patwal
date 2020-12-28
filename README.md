@@ -22,6 +22,7 @@ Recently completed a group project using data scraped from Booking.com - the pro
 Excels at solving complex problems. Very particular about details and deadlines. Additional skills include Project (PMP and Scrum) Management skills.
 Biggest strength is Grit. 
 
-- 📫 How to reach me: getintouchwithgovind@gmail.com 
+- 📫 How to reach me: getintouchwithgovind@gmail.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have finished 7 Half Marathons, with a PB of 1:50:48
+- LinkedIn: https://www.linkedin.com/in/govindpatwal/  
