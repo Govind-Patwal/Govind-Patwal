@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Python programmer and Data enthusiast with Bachelor degree in Computer Applications, and skills in Python, SQL, AWS, Tableau, Machine Learning and Deep Learning. Data Analytics and Visualization certificate (Grade A+) from University of Toronto. 
+I am a Python programmer and Data enthusiast with Bachelor degree in Computer Applications, and skills in Python, SQL, AWS, Tableau, Machine Learning and Deep Learning. Data Analytics and Visualization certificate (Grade A+) from University of Toronto. 
 
 Recently completed a group project using data scraped from Booking.com - the project used Python for ETL, Machine Learning, PySpark and Deep Learning for NLP, PostgreSQL and AWS for Database and Tableau for Data Visualization. 
 
