@@ -9,7 +9,7 @@ I excel at solving complex problems. I am very particular about details and dead
 
 My biggest strength is Grit. 
 
-## Top Technologies
+## Technologies I Use
 - Python
 - Jupyter Notebook 
 - Google Colab
