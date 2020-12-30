@@ -25,7 +25,7 @@ My biggest strength is Grit.
 - MBA | Sikkim Manipal University of Health, Medical and Technological Sciences
 - BCA | Indira Gandhi National Open University
 
-### Certificates
+## Certificates
 - Data Science with R | Simplilearn
 - Data Analytics with Excel | Simplilearn
 - Markeing Analytics and Customer Valuation | Indian Institute of Management
