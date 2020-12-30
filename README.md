@@ -10,7 +10,28 @@ I excel at solving complex problems. I am very particular about details and dead
 My biggest strength is Grit. 
 
 ## Top Technologies
-Python, Jupyter Notebook, Google Colab, PostgreSQL, AWS RDS, Pandas, NumPy, Django, Flask
+- Python
+- Jupyter Notebook 
+- Google Colab
+- PostgreSQL
+- AWS RDS 
+- Pandas
+- NumPy
+- Django
+- Flask
+
+## Education
+- Certificate, Data Analytics, Grade A+ | University of Toronto
+- MBA | Sikkim Manipal University of Health, Medical and Technological Sciences
+- BCA | Indira Gandhi National Open University
+
+### Certificates
+- Data Science with R | Simplilearn
+- Data Analytics with Excel | Simplilearn
+- Markeing Analytics and Customer Valuation | Indian Institute of Management
+- Standard First Aid, CPR and AED | Canadian Red Cross
+- Fire Warden Training | LRI
+- PMP (Jan 2013 - Jan 2016) | PMI
 
 ## Contact Me
 I'm always excited to solve new challanges! 
