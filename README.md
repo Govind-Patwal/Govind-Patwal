@@ -1,13 +1,17 @@
 ## Hi I'm Govind Patwal
 
 ## About Me
-I am a Python programmer and Data enthusiast with Bachelor degree in Computer Applications, and skills in Python, SQL, AWS, Tableau, Machine Learning and Deep Learning. Data Analytics and Visualization certificate (Grade A+) from University of Toronto. 
+Python Programmer and Data Analyst with a certificate in Data Analytics and Visualization (Grade: A+) from the University of Toronto and years of experience in Sales and Project Management.
 
-I recently completed a group project using data scraped from Booking.com - the project used Python for ETL, Machine Learning, PySpark and Deep Learning for NLP, PostgreSQL and AWS for Database and Tableau for Data Visualization. 
+Skills acquired from role as a Sales Executive include oral, written and presentation skills, ability to explain technical topics to non-technical audience, meeting deadlines, navigating competing priorities, and working under pressure in fast-paced environments.
 
-I excel at solving complex problems. I am very particular about details and deadlines. My additional skills include Project (PMP and Scrum) Management.
+Skills acquired from a role as a Project Manager include scope, schedule, cost, quality, resource, risk, communication, stakeholder and risk management.
 
-My biggest strength is Grit. 
+Considers team work to be one of the biggest strengths - once worked with an external team to devise a win-win solution for the customer, own employer and the external team.
+
+Skilled in Python, Pandas, SQL, AWS, Tableau, Machine Learning and Deep Learning - portfolio @ https://govind-patwal.github.io/
+
+Finds great satisfaction in extracting insights from data that inform decision-making and drive growth, and improving code by refactoring.
 
 ## Technologies I Use
 - Python
