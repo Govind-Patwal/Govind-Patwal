@@ -14,11 +14,9 @@ Skilled in Python, Pandas, SQL, AWS, Tableau, Machine Learning and Deep Learning
 Finds great satisfaction in extracting insights from data that inform decision-making and drive growth, and improving code by refactoring.
 
 ## Technologies I Use
-- Python
-- Pandas
-- Jupyter Notebook 
-- Google Colab
-- PostgreSQL
+- Languages: Python, SQL
+- Applications/Tools/Libraries comfortable with: Pandas, Jupyter Notebook, GitHub, PostgreSQL
+- Applications/Tools/Libraries familiar with: Django, Flask, Tableau
 
 ## Education
 - Certificate, Data Analytics, Grade A+ | University of Toronto
