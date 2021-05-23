@@ -1,17 +1,10 @@
 ## Hi I'm Govind Patwal
 
 ## About Me
-I am a Data Analyst in Python with a certificate in Data Analytics and Visualization (Grade: A+) from the University of Toronto and years of experience in Sales and Project Management.
+I am a Competent and Qualified Data Professional and Python 3 Programmer.
 
-Skills acquired from role as a Sales Executive include oral, written and presentation skills, ability to explain technical topics to non-technical audience, meeting deadlines, navigating competing priorities, and working under pressure in fast-paced environments.
-
-Skills acquired from a role as a Project Manager include scope, schedule, cost, quality, resource, risk, communication, stakeholder and risk management.
-
-Considers team work to be one of the biggest strengths - once worked with an external team to devise a win-win solution for the customer, own employer and the external team.
-
-Skilled in Python, Pandas, SQL, AWS, Tableau, Machine Learning and Deep Learning - portfolio @ https://govind-patwal.github.io/
-
-Finds great satisfaction in extracting insights from data that inform decision-making and drive growth, and improving code by refactoring.
+I find great satisfaction in defining and solving problems, extracting insights from data, and improving code by
+refactoring.
 
 ## Technologies I Use
 - Languages: Python, SQL
