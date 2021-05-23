@@ -8,7 +8,7 @@ refactoring.
 
 ## TECHINICAL SKILLS
 - Languages: Python, SQL
-- Applications/Tools/Libraries comfortable with: : pandas, random, pyspark, turtle, json, requests, requests_get,
+- Applications/Tools/Libraries comfortable with: pandas, random, pyspark, turtle, json, requests, requests_get,
 copy, pytest, tensorflow, scikit-learn, PostgreSQL,Tableau
 
 ## OTHER SKILLS
