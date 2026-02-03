@@ -1,21 +1,12 @@
 ## Hi, I'm Govind Patwal!
 
 ## ABOUT ME
-I am a Competent and Qualified Data Professional and Python 3 Programmer.
-
-I find great satisfaction in defining and solving problems, extracting insights from data, and improving code by
-refactoring.
+I find great satisfaction in defining and solving problems, extracting insights from data, and improving code by refactoring.
 
 ## TECHINICAL SKILLS
 - Languages: Python, SQL
 - Applications/Tools/Libraries comfortable with: pandas, random, pyspark, turtle, json, requests, requests_get,
 copy, pytest, tensorflow, scikit-learn, PostgreSQL,Tableau
-
-## OTHER SKILLS
-- Oral, written and presentation: ability to explain technical topics to non-technical audience
-- Working under pressure in fast-paced environments, meeting deadlines, and navigating competing
-priorities
-- Team Work: being mentored and mentoring
 
 ## PROJECTS - https://govind-patwal.github.io/my_work.html
 ### European Hotel Analysis: https://github.com/Govind-Patwal/European_Hotel_Analysis
@@ -63,18 +54,3 @@ Project objective(s) - suggest hotels and the travel routes between the correspo
 - Marketing Analytics and Customer Evaluation, Indian Institute of Management - Kashipur
 - Statistics Foundations: 1,2, and 3, Lynda.com
 - PMP (Jan 2013-Jan 2016)
-
-## LIFE-SAVING TRAININGS
-- Standard First Aid & CPR/AED Level C, Canadian Red Cross
-- Fire Warden Training, LRI
-
-## HOBBIES AND INTERESTS
-- Running: I have been participating in running competitions since Grade 11. Over time, I received coaching tips from Sandra Inoa (coach of Khalid Khannouchi, former WR holder for the Marathon) and finished 7 Half Marathons, with a personal best of 1:50:48. Have also coached 5 colleagues to finish a 5k run.
-- Adventure Activities: Have done tandem paragliding, Scuba diving, Bungee jumping and Hiking. Plan to get a solo Paraglider licence.
-- Volunteering: Volunteered to be on the First-Aid, and the Fire Warden Teams.I later accepted the position of the Fire-warden team lead. Responsibilities as a lead included ensuring adequate manpower, signing team members for training, creating fire-exit-plans, explaining procedures to be followed during a fire, and procuring and distributing Fire Warden kits.
-
-## CONTACT ME
-I'm always excited to solve new challanges! 
-- Email: getintouchwithgovind@gmail.com
-- LinkedIn: https://www.linkedin.com/in/govindpatwal
-- Portfolio: https://govind-patwal.github.io 
