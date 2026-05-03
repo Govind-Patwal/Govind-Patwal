@@ -10,11 +10,11 @@ copy, pytest, tensorflow, scikit-learn, PostgreSQL,Tableau
 
 ## REPOS
 
-### Currently building Improve Habits — a parent-guided platform for child development and behavior-driven insights.
+### Currently building Improve Habits — a platform that turns daily child behavior into actionable insights for parents.
 
 ### European Hotel Analysis: https://github.com/Govind-Patwal/European_Hotel_Analysis
 Project objective(s) - help users find the best hotel; help hotel owners know how customer sentiments are changing over time; and determine the ML model that predicts the sentiments the best.
-- Role: 1 of 3 contributors - I was responsible for ETL, ERD, Schema and DB creation, ML and DL NLP
+- I was responsible for ETL, ERD, Schema and DB creation, ML and DL NLP
 models and creating a model to predict sentiment based on input.
 - Language & Tools: Python, PostgreSQL, AWS, PySpark, Google Colab, Tableau
 
