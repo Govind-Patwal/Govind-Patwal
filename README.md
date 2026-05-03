@@ -1,14 +1,17 @@
 ## Hi, I'm Govind Patwal!
 
 ## ABOUT ME
-I find great satisfaction in defining and solving problems, extracting insights from data, and improving code by refactoring.
+I build systems end-to-end — from defining problems to shipping working solutions.
 
 ## TECHINICAL SKILLS
 - Languages: Python, SQL
 - Applications/Tools/Libraries comfortable with: pandas, random, pyspark, turtle, json, requests, requests_get,
 copy, pytest, tensorflow, scikit-learn, PostgreSQL,Tableau
 
-## PROJECTS - https://govind-patwal.github.io/my_work.html
+## REPOS
+
+### Currently building Improve Habits — a parent-guided platform for child development and behavior-driven insights.
+
 ### European Hotel Analysis: https://github.com/Govind-Patwal/European_Hotel_Analysis
 Project objective(s) - help users find the best hotel; help hotel owners know how customer sentiments are changing over time; and determine the ML model that predicts the sentiments the best.
 - Role: 1 of 3 contributors - I was responsible for ETL, ERD, Schema and DB creation, ML and DL NLP
